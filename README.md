@@ -83,15 +83,42 @@ This project solves these problems by:
 
 ## 📸 Dashboard Preview
 
-### 🔹 Main Dashboard
-![Dashboard](images/dashboard_top.png)
 
-### 🔹 Forecast Visualization
-![Forecast](images/dashboard_graph.png)
 
-### 🔹 Model Output Graph
-![Model Output](images/forecast_graph.png)
 
+## 📸 Project Screenshots
+
+---
+
+### 📊 Sales Trend Analysis
+![Sales Trend](images/sales_trend.png)
+
+---
+
+### 📈 Forecast Graph
+![Forecast](images/forecast_graph.png)
+
+---
+
+### 📦 Inventory Recommendation Table
+![Inventory Table](images/inventory_recommentation_table.png)
+
+---
+
+### 📊 Dashboard Overview
+![Dashboard Top](images/dashboard_top.png)
+
+---
+
+### 📉 Dashboard Analytics Graph
+![Dashboard Graph](images/dashboard_graph.png)
+
+---
+
+### 🚀 Streamlit Dashboard UI
+![Streamlit Dashboard](images/streamlit_dashboard.png)
+
+---
 
 
 
