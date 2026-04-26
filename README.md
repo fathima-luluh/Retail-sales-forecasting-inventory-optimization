@@ -94,6 +94,14 @@ This project solves these problems by:
 
 
 
+
+## 📊 Sample Output
+
+- Forecast (Next 7 Days): 180 → 226 units  
+- Safety Stock: 89 units  
+- Reorder Point: ~1480 units
+
+
 \## ⚙️ Installation
 
 
