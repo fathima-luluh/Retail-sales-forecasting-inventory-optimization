@@ -81,6 +81,18 @@ This project solves these problems by:
 \---
 
 
+## 📸 Dashboard Preview
+
+### 🔹 Main Dashboard
+![Dashboard](images/dashboard_top.png)
+
+### 🔹 Forecast Visualization
+![Forecast](images/dashboard_graph.png)
+
+### 🔹 Model Output Graph
+![Model Output](images/forecast_graph.png)
+
+
 
 \## ⚙️ Installation
 
